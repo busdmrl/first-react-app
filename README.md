@@ -24,4 +24,4 @@
 - Faturanın verisi genel hatları ile oluşturulabilir fakat axios post ile göndermek için "Kaydet" butonu eklenememiştir(zaman yetmedi)
 - Çok satır ekledikçe formun çalışması yavaşlıyor.
 
-#Teşekkürler :)
+# Teşekkürler :)
